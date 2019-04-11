@@ -26,7 +26,6 @@ const fitness = function(entity, userData) {
 };
 
 (() => {
-  console.log('entity', workerData.entity);
   const fitnesses = workerData.entities.map(entity => {
     return fitness(entity, workerData.userData);
   });
