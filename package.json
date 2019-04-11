@@ -1,5 +1,5 @@
 {
-  "name": "genetic-js",
+  "name": "genetic-nodejs-multithread",
   "version": "0.3.0",
   "description": "Advanced genetic and evolutionary algorithm library",
   "main": "lib/genetic.js",
@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/subprotocol/genetic-js"
+    "url": "git://github.com/z-hao-wang/genetic-js"
   },
   "bugs": {
-    "url": "https://github.com/subprotocol/genetic-js/issues"
+    "url": "https://github.com/z-hao-wang/genetic-js/issues"
   },
   "keywords": [
     "genetic",
     "evolution",
-    "algorithm"
+    "algorithm",
+    "nodejs"
   ],
-  "author": "subprotocol <smprotocol@gmail.com> (http://subprotocol.com/)",
+  "author": "subprotocol <smprotocol@gmail.com> (http://subprotocol.com/), Hao Wang",
   "license": "BSD",
   "readmeFilename": "README.md",
   "devDependencies": {
