@@ -18,7 +18,7 @@ example in nodejs ```node --experimental-worker  examples/nodeJsFitting.js```
 #### Install
 
 ```bash
-npm install genetic-js-multithread
+npm install genetic-nodejs-multithread
 ```
 
 ## Population Functions
