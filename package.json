@@ -1,6 +1,6 @@
 {
   "name": "genetic-nodejs-multithread",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Advanced genetic and evolutionary algorithm library",
   "main": "lib/genetic.js",
   "scripts": {
